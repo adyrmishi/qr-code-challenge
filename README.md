@@ -25,8 +25,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://sensational-horse-bc9b5e.netlify.app/](https://sensational-horse-bc9b5e.netlify.app/)
 
 ## My process
 
@@ -60,8 +59,6 @@ const proudOfThisFunc = () => {
 ### Continued development
 
 - Work on understanding when to use padding/margin.
-- Center the div horizontally on the page.
-- Add mobile responsiveness.
 
 ### Useful resources
 
